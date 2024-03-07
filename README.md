@@ -8,3 +8,10 @@ HEllo Users
 
 
 <h>✪</h> git clone  https://github.com/fahad955/Ddos/
+<h>✪</h> cd Ddos
+<h>✪</h> chmod +x install.sh
+
+
+<h2>Use</h2>
+<h>✪</h> cd Ddos 
+<h>✪</h> python3 Ddos.py
