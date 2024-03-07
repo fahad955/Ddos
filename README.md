@@ -1,25 +1,32 @@
-HEllo Users 
+ ### H3ll0 Hackers
 
 
 <h1>Lets Jam Any WEBsites </h1>
 
 
-<h2>installing Proses</h2>
+### Support
+
+OS         | Support Level
+-----------|--------------
+Linux      | Excellent
+Android    | Excellent
+iPhone     | Alpha (Recommended docker)
+MacOS      | Alpha (Recommended docker)
+Windows    | Unsupported (Use docker/virtual-box/vmware)
+BSD        | Never tested
 
 
-<h>✪</h> git clone  https://github.com/fahad955/Ddos/
+ ### installing Proses
 
-‎ 
-
-<h>✪</h> cd Ddos
-
-‎ 
-<h>✪</h> chmod +x install.sh
+ - `git clone https://github.com/fahad955/Ddos/ `
+ - `cd Ddos`
+ - `chmod +x *`
+ - `bash install.sh`
 
 
-<h2>Use</h2>
-<h>✪</h> cd Ddos
 
-‎ 
+ ### Use
 
-<h>✪</h> python3 Ddos.py
+ - `cd Ddos`
+ - `python3 Ddos.py`
+  
